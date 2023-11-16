@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF8">
+	<meta name ="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial,sans-serif
+			padding: 20px
+			}
+		.code {
+	 		background-color: red;
+			padding: 10px
+			border-radius: 5px;
+			margin-bottom: 10px
+			}
+		</style>
+	</head>
+	<body>
+		<h1>JavaScript String and Math Objects</h1>
+		<h2>String Object</h2>
+		<div class="code">
+			<h3>string lenght</h3>
+			<pre>
+				<code>
+	var str = "Hello, World!";
+	var lenght = str.lenght;
+	console.log("lenght of the string: " + lenght);
+				</code>
+			</pre>
+			<h3> String concantation</h3>
+			<pre>
+				<code>
+	var str1 = "Hello";
+	var str2 = "World";
+	var result= str1.concat(",",str2,"!");
+	console.log("Concatenated String: " + result);
+			</code>
+		</pre>
+		 <!-- Add more string obejct functions as needed -->
+		</div>
+		<h2>math Object</h2>
+		<div class="code">
+			<h3>Random number</h3>
+			<pre>
+				<code>
+	var RandomNumber = Math.random();
+	console.log("random number between 0 and 1: " + random number);
+				</code>
+			</pre>
+			<!-- Add more math object functions as needed -->
+		<div>
+		<!-- Add more explanations and examples as needed -->
+</body>
+</html>	
+ 						 	
+
