@@ -13,6 +13,7 @@ margin:20px0;
 table,th,td{
 border:1px solid black;
 }
+
 th,td{
 padding:10px;
 text-align:left;
